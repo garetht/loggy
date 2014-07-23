@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "ansi-color": "~0.2.1",
-    "growl": "~1.7.0",
+    "growl": "git://github.com/garetht/node-growl",
     "date-utils": "~1.2.12"
   }
 }
